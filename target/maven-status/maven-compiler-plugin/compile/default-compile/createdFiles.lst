@@ -1,0 +1,5 @@
+org\apache\struts\edit\action\EditAction.class
+org\apache\struts\edit\service\EditServiceInMemory.class
+org\apache\struts\edit\model\Person.class
+org\apache\struts\edit\model\State.class
+org\apache\struts\edit\service\EditService.class
